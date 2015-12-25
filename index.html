@@ -3,15 +3,22 @@ layout: home
 ---
 
 <section id="about">
-	<div class="container">
-	  <div class="avatar">
+	<div class="col-md-10 col-md-offset-1">
+	  <div class="avatar col-md-3 col-md-offset-0 col-sm-8 col-sm-offset-4">
 		<img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
 	  </div>
-	  <h3>I'm <strong>{{ site.author }}</strong>, a Software Engineer.</h3>
-	  <h3>I love all things computer science and maths.</h3>
-	  <h3>Have a look at some of my working <a href="{{ site.baseurl }}/projects.html"> projects</a>.</h3>
-	  <h3>For more check out my academic &amp; professional <a href="http://biomadeira.github.io/vitae">Resume</a>.</h3>
-	  <h3>Contact me at <a href="http://twitter.com/{{ site.twitter }}">@{{ site.twitter }}</a> or by <a href="mailto:{{ site.email }}">email</a>.</h3>
+	<div class=" avatar col-md-8 col-md-offset-1 col-sm-12">
+	  <h3>I'm <strong>{{ site.author }}.</strong><br><br>
+		  <p>Engineering is my passion and profession while bodybuilding
+		  is my religion .This blog chronicles my journey through life as I pursue Technology with the discipline of a bodybuilder,
+		  along with some random travels and thoughts .</p>
+		  <p>Have a look at some of my working <a href="{{ site.baseurl }}/projects.html"> projects(done and pipeline)</a>.
+	  	  <p><a href="{{site.url}}/post7.html">Current bodybuilding plan </a></p>
+		  <p>Books and music review(Will do Soon)</p>
+
+		<h3>If you want to code / train / travel  with me<br>
+		  Contact me at {{ site.email }}.</h3>
 	  {% include social.html %}
+	</div>
 	</div>
 </section>
