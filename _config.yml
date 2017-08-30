@@ -1,28 +1,21 @@
-# top level stuff you probably don't need to touch
-highlighter: rouge
-permalink: /:title.html
-paginate: 5
-gems: [jekyll-paginate]
-port: 3000
-safe: true
+# ----------- CONFIGURABLE START -----------
+title:            "The Source code to my twisted internals"
+description:      "My online journal/blog"
+url:              http://sandeep06011991.github.io # Site url, without a slash at the end.
+signoff:          "Sandeep Polisetty" # Your name
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
 
+links:
+  - name:         Posts
+    url:          /blog
+    external:     false
+  - name:         About me
+    external:     false
+# ------------ CONFIGURABLE END ------------
 
-# edit here to achieve your personal greatness
-url: http://sandeep06011991.github.io/
-baseurl:
-title: Sandeep Polisetty
-author: Sandeep Polisetty
-description: Personal blog and resume
-avatar: physique.png
-email: sandeep06011991@gmail.com
-github: sandeep06011991 # username
-
-stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-disqus: username
-google_analytics: UA-69391421-1
-email: sandeep06011991@gmail.com
-
-
-# needed for travis-ci build
-exclude: [vendor]
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
