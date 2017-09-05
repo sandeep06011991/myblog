@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
 title:            "The Source code to my twisted internals"
 description:      "Sandeep Polisetty online journal/blog"
-#url:              http://localhost:4000
-url:              http://sandeep06011991.github.io
+url:              http://localhost:4000
+#url:              http://sandeep06011991.github.io
 signoff:          "Sandeep Polisetty" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
