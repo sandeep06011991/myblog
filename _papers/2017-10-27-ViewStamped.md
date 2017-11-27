@@ -1,4 +1,4 @@
-View Stamp Replication
+###View Stamp Replication
 
 Key Contributions/Interesting ideas
 2) Describes Protocol for repliaction ,leader changes and group changes.
