@@ -1,3 +1,9 @@
+---
+layout: default
+title: View Stamped Replication
+tags:
+- Computer Science 
+---
 ###View Stamp Replication
 
 Key Contributions/Interesting ideas
