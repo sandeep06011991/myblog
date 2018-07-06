@@ -12,9 +12,9 @@ links:
   - name:         Projects
     url:          /projects.html
     external:     false
-  - name:         Posts
-    url:          /blog.html
-    external:     false
+#  - name:         Posts
+#    url:          /blog.html
+#    external:     false
   - name:         Papers
     url:          /papers.html
     external:     false
@@ -22,6 +22,12 @@ links:
   - name:         About me
     url:          /
     external:     false
+  - name:         Fitness
+    url:          /fitness.html
+    external:     false
+  - name:         Cooking
+    url:          /cooking.html
+    external:      false
 
   #- name:         CV
   #  url:          /resume-sandeep.pdf
@@ -41,3 +47,6 @@ collections:
   papers:
     output: true
     permalink: /papers/:path/
+  bodybuilding:
+    output:  true
+    permalink: /bodybuilding/:path/

@@ -1,0 +1,16 @@
+---
+---
+
+<ul class="list pa0">
+  <p>
+    This site contains some of my fitness notes, journal entries of my current plans, diet and physique snapshots.
+  </p>
+  {% for post in site.bodybuilding %}
+  <li class="mv2 mh3">
+    <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
+      <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
+      {{ post.title }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
