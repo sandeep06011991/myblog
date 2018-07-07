@@ -18,7 +18,7 @@ Advantages:
 
 	Install: sudo apt-get install jekyll
 	
-	running command: ~$ jekyll serve
+	running command: ~$ bundle exec jekyll serve
 
 3. Do I actually need to clone me and scrub me ?
 
