@@ -14,6 +14,7 @@ Advantages:
 	4. U can add extra, libraries for rendering. I added one for marked down, but thats one example.
 
 2. Setting up and How to Run ??
+    Install ruby and bundle
 
 	Install: sudo apt-get install jekyll
 	
@@ -62,4 +63,5 @@ Advantages:
     To add a post in a category, create a child directory and add posts there
     Very important to follow the date, title and layout structure for each child post.
     Absence of these variables would lead to silent errors. 
+    
 
