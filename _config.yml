@@ -50,3 +50,6 @@ collections:
   bodybuilding:
     output:  true
     permalink: /bodybuilding/:path/
+  cooking:
+    output: true
+    permalink: /cooking/:path

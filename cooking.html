@@ -1,31 +1,34 @@
 ---
 ---
 <p>
-  Under Construction.
-  Will soon be updated to contain my cooking notes and recipes.
+  <h3 style="text-align:center"> NEW RULES</h3>
+<ol>
+  <li>Cook something often even if its as simple as rice</li>
+  <li>Whatever u cook has to be perfect. Even if as simple as rice should not be overcooked and fluffy.</li>
+  <li>I have enough muscle that eating 400 calories of kinda clean wont through of my body</li>
+  <li>Put special emphasis on portions (there for a reason), tendency to overcook (curry) and undercook (fries) </li>
+  <li>Tons of healthy things Indian curry, chinese and mexican rice bowls or even breakfasts</li>
+  <li>Since I dont care what I eat while I work. Stick to protein powder, oats and almond butter</li>
+  <li>Meal prep leads to over crowded pan and cant be creative</li>
+  <li>Following above 2 rules, I can practice cooking more </li>
+</ol>
 
 </p>
-<p>
-  I will be going around cuisines in a round robin fashion.
-  Current target cuisines are:
 
-</p>
-
-<ul>
-  <li>Mediterrenean </li>
-  <li>Indian: Biryani, butter chicken </li>
-  <li>Chinese: Kung pao chicken, orange chicken, fried rice </li>
-  <li>Italian: Pasta arbiata, Pasta alfredo, Sphagetti meatballs, Spagetti bolognese </li>
-  <li>American: Burger, Steak and mashed potatoes (DONE) </li>
-</ul>
-
-<!--<ul class="list pa0">-->
-  <!--{% for post in site.papers %}-->
-  <!--<li class="mv2 mh3">-->
-    <!--<a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">-->
-      <!--<time class="fr silver ttu">{{ post.date | date_to_string }} </time>-->
-      <!--{{ post.title }}-->
-    <!--</a>-->
-  <!--</li>-->
-  <!--{% endfor %}-->
+<!--<ul>-->
+  <!--<li>Mediterrenean </li>-->
+  <!--<li>Indian: Biryani, butter chicken </li>-->
+  <!--<li>Chinese: Kung pao chicken, orange chicken, fried rice </li>-->
+  <!--<li>Italian: Pasta arbiata, Pasta alfredo, Sphagetti meatballs, Spagetti bolognese </li>-->
+  <!--<li>American: Burger, Steak and mashed potatoes (DONE) </li>-->
 <!--</ul>-->
+
+<ul class="list pa0">
+  {% for post in site.cooking %}
+  <li class="mv2 mh3">
+    <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
+      {{ post.title }}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
