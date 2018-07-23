@@ -17,18 +17,24 @@ corn starch or 3 tablespoon of flour. Flour cooks slower so cook more time
 
 ### Mistakes that I commonly make
 
-## Target Recipes to cook 
+### Techniques Stir Fry chicken (PHASE 1)
 
-1. Teriyaki chicken  (WORKING)
-2. Kung Pao chicken (WORKING)
+1. Teriyaki chicken  (WORKING): Chicken and broccoli
+2. Kung Pao chicken (WORKING): Chilli Hot
 4. Orange Chicken  (WORKING)
-5. chicken fried rice (WORKING)
-3. General Tso Chicken 
-6. chicken schezhwan noodle 
-7. Szechwan Chilli Chicken
-8. Stir Fried Tofu with Rice
-9. Shrimp Fried Rice
+5. chicken fried rice
+
+### Phase 2
+
+6. Pork fried rice 
+7. Shrimp fried rice
 10. Beef Wth Broccoli
-11. Indo chinese chilli chicken 
 
+### Phase 3
+Possible combinations
 
+All meat: Beef, Pork, chicken and shrimp
+Noodle and rice
+
+ex. Pork teriyaki, pork fried rice
+Chowmein
