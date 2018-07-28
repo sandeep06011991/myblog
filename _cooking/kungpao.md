@@ -14,7 +14,9 @@ Soy sauce, rice white vinegar, rice wine, sesame oil, cornstarch/flour,
 optionals: 
 hoisin sauce,green onions, chicken broth[can be substituted with water],
 schezhwuan pepper corns[**PREFERRED**]
-chilli flakes, eg white
+chilli flakes,egg white
+
+**DONT HAVE TO USE MORE THAN 1 spoon of SOY SAUCE**
 
 - 1/2 pound skinless, boneless chicken breast halves - cut into chunks
 - 2 tablespoons white wine

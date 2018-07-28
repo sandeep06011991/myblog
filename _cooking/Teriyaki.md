@@ -20,7 +20,7 @@ Serving size:2
 6. 2 tbsp of water **MY innovation** 
 5. 1 clove garlic minced
 6. 1 tea spoon of garlic minced
-7. 1 tea spoon of corn starch
+7. 1 tea spoon of corn starch **Verify if sufficient**
 
 #### Other
 
@@ -29,7 +29,7 @@ chicken .5 pound or 250 gms , steamed broccoli and rice
 #### Instructions
 
 1. Make the sauce: In a medium bowl, combine soy sauce,
- vinegar, sesame oil, honey, garlic, ginger and cornstarch.
+ vinegar **WINE not vinegar** , sesame oil, honey, garlic, ginger and cornstarch.
   Whisk until smooth. **DILUTE SAUCE ** for simmering
 2. In a large skillet, over medium heat, heat oil. 
 Add chicken to skillet and season with salt and pepper. Cook until golden and almost cooked through, about 10 minutes.
@@ -41,6 +41,9 @@ Add chicken to skillet and season with salt and pepper. Cook until golden and al
 
 1. stir fry broccoli seperately
 2. Most stir fries are the same with adding oyster sauce as an additional
+3. 1:1 ratio between acid (vinegar) and sugar.
+4. Wine could be used for degalzing .  
+
 **AMOUNT** is unknown 
 
 
