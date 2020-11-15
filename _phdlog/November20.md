@@ -12,8 +12,8 @@ tags:
 1. Stick to the diet chart for the entire month no matter what. Focus primarily on oly lifting. This is were most of our money is being spent. Make the max use of it. Test at the end of the month, current prs. In 4 weeks, prepare for a pr test of snatch 125, clean and jerk 145. Add more snatch balancing and jerk work. Everyday remember we are training for this goal.
 
 2. Be up and working early @ 7. Related cause is wasting time on youtube.
-
-  Why do I take forever to get up.
+  Why do I take forever to get up. Week1 failure, lets move gym to morning and program heat to 75 at 5. 
+  5 start rolling, Start work by 10. 10-6 offical work. No long breaks during office hours. 
   Because I sleep late @ 2, given how tired from gym. I am not so suprised I wake up late.
   Have a hard deadling of 10-11. Get up early if needed.
   I need atleast 8 hours of sleep.
@@ -42,10 +42,11 @@ tags:
 
 ### Key Research questions.
 
-1. What is the data partitioning strategy followed by Neugraph. Given a graph, describe an example how neugraph partitions the graph.  
-2. What is search space exploration strategy of flexflow. Given a DNN example, describe how flexflow explores, declares the model space.
+1. What is the data partitioning strategy followed by Neugraph. Given a graph, describe an example how neugraph partitions the graph.   (Done)
+2. What is search space exploration strategy of flexflow. Given a DNN example, describe how flexflow explores, declares the model space. (Done) 
 3. Test gypsum for multi-gpu setting. Try large matrix multiplication.
 4. Formalize the math of Reducing communication, How this is done.
+5. Start working on preliminary experiments. 
 
 
 ## NLP project
@@ -59,7 +60,7 @@ tags:
 1. Share TA code with andrew.
 2. Add sudo user to juelin.
 3. Guide alexander a bit.
-
+    Forget this task now, my project is more messed up. Lets focus on that a bit.
     a. Get current snapshot of ALTOP and ALTOP_Latex.
     b. Main competitors are: EmptyHeaded, GRO. What is left over here.  
     c. Understad an example of emptyheaded, query generation strategy for the barbell query.
@@ -69,5 +70,21 @@ tags:
 
 ## Three movies I want to watch this month..
 
-Every week I want to watch a movie, but I end up failing miserably.
-Audible book for me.
+Every week I want to watch a movie: but I end up failing miserably.
+Watched a movie, gangster, devil and cop. Next one:
+American assasin, gentleman, aquaman.
+
+Week 1 Review:
+  1. Started diet and followed it pretty well. No cheat meals however, minor cheats of having 1 serving extra of recommended ingredients. Next week need to monitor nut intake as it goes out  of control 
+  2. I worked for 17 hours this week on forest. Total logged research time 19 hours. So when I work its effective, however my break times where quite a lot 12 hours not including chores. 
+  
+Goals for next week:
+  1. Overall time management must be improved. Limit break time overall to 2 hours per day. Research time of 8 hour. 8 hours of sleep,1 hour for chores(Meal prep doesnt take more than 1 hour). 
+  2. Need to wake up early and finish gym. Working late at night keeps me up awake. 
+  3. Prevent grazing of food. 
+  4. Try to keep office hours from 10-6 no break during these hours. 
+  
+  
+  
+  
+  
