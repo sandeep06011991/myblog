@@ -14,6 +14,8 @@ tags:
 2. Be up and working early @ 7. Related cause is wasting time on youtube.
   Why do I take forever to get up. Week1 failure, lets move gym to morning and program heat to 75 at 5. 
   5 start rolling, Start work by 10. 10-6 offical work. No long breaks during office hours. 
+  Me gymming at night is one reason why I sleep late. 
+  
   Because I sleep late @ 2, given how tired from gym. I am not so suprised I wake up late.
   Have a hard deadling of 10-11. Get up early if needed.
   I need atleast 8 hours of sleep.
