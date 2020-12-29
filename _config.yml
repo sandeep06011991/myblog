@@ -31,9 +31,9 @@ links:
   - name:         Research
     url:          /research.html
     external:      false
-  - name:          PhD Timeline
-    url:          /phdlog.html
-    external:      false
+#   - name:          PhD Timeline
+#     url:          /phdlog.html
+#     external:      false
   #- name:         CV
   #  url:          /resume-sandeep.pdf
   #  external:     false
