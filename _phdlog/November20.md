@@ -32,6 +32,8 @@ tags:
   d. Reward: dont have to face stress for now.
 
 #  Work atleast 30 Hours on project per week .
+Use toggle and Forest extensively. Evaluate every week.
+This week toggle atleast 3 days and forest 30 hours.
 
 ## Goal for the GNN project.
 
@@ -71,3 +73,7 @@ tags:
 
 Every week I want to watch a movie, but I end up failing miserably.
 Audible book for me.
+
+## Movies to watch
+
+1. Gangster, devil 
